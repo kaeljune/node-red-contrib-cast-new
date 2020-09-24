@@ -1,6 +1,6 @@
 {
-  "name": "node-red-contrib-cast",
-  "version": "0.2.6",
+  "name": "node-red-contrib-cast-new",
+  "version": "0.0.1",
   "description": "NodeRED nodes to for Chromecast and Google Home",
   "keywords": [
     "node-red",
@@ -27,37 +27,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypnos3/node-red-contrib-cast.git"
+    "url": "git+https://github.com/kaeljune/node-red-contrib-cast-new.git"
   },
   "author": {
-    "name": "Hypnos3",
-    "email": "hypnos3@online.de",
-    "url": "https://github.com/hypnos3"
+    "name": "kaeljune",
+    "email": "hieptran.dev@gmail.com",
+    "url": "https://github.com/kaeljune"
   },
-  "contributors": [
-    {
-      "name": "Stephen Keep",
-      "email": "stephenkeep@gmail.com",
-      "url": "https://github.com/stephenkeep"
-    },
-    {
-      "name": "Hypnos3",
-      "url": "https://github.com/hypnos3"
-    },
-    {
-      "name": "Paul-Reed",
-      "url": "https://github.com/Paul-Reed"
-    },
-    {
-      "name": "maxill1",
-      "url": "https://github.com/maxill1"
-    }
-  ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Hypnos3/node-red-contrib-cast/issues"
+    "url": "https://github.com/kaeljune/node-red-contrib-cast-new/issues"
   },
-  "homepage": "https://github.com/Hypnos3/node-red-contrib-cast#readme",
+  "homepage": "https://github.com/kaeljune/node-red-contrib-cast-new#readme",
   "node-red": {
     "nodes": {
       "cast-to-client": "cast-to-client.js"
